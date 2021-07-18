@@ -1,0 +1,4 @@
+﻿    ÿÿÿÿ          CSupermercado, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null   ‚System.Collections.Generic.List`1[[Supermercado.Funcionario, Supermercado, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]   _items_size_version  Supermercado.Funcionario[]   	                   Supermercado.Funcionario   	   
+   Supermercado.Funcionario   <id>k__BackingField<firstName>k__BackingField<lastName>k__BackingField<phoneNumber>k__BackingField<address>k__BackingField<birthDate>k__BackingField<salary>k__BackingField<userName>k__BackingField<password>k__BackingField<active>k__BackingField<cargo>k__BackingField    
+Supermercado.EnumCargo      û     admin   admin   	910000000   IPCA ÀëœAÂ10000	   admin
+   12345678õÿÿÿSupermercado.EnumCargo   value__       
